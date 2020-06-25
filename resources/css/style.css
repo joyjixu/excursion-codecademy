@@ -18,7 +18,7 @@ h2 {
 }
 
 
-#link {
+.link {
     color: aquamarine;
-    text-decoration: aquamarine underline;
+    text-decoration: underline;
 }
