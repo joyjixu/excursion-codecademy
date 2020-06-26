@@ -25,3 +25,10 @@ a {
 #download {
     margin-top: 20px;
 }
+
+.copyright {
+    text-align: right;
+    color: gray;
+    display: block;
+    float: right;
+}
