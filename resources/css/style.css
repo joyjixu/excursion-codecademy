@@ -22,3 +22,7 @@ h2 {
     color: aquamarine;
     text-decoration: underline;
 }
+
+.description {
+    margin-top: 20px;
+}
