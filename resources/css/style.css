@@ -17,12 +17,11 @@ h2 {
     font-size: 42px;
 }
 
-
-.link {
+a {
     color: aquamarine;
     text-decoration: underline;
 }
 
-.description {
+#download {
     margin-top: 20px;
 }
